@@ -1,8 +1,8 @@
 package logic_1
 
-func Soal4(n int) []int {
+func Soal5(n int) []int {
 	slice := make([]int, n)
-	num := 19
+	num := 20
 
 	for i := 0; i < n; i++ {
 		slice[i] = num
